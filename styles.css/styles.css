@@ -1,0 +1,25 @@
+body{
+  background-color: skyblue;
+}
+h1{
+  font-size: 30;
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+}
+h2{
+  color: red;
+  font-style: italic;
+}
+h3{
+  color: red;
+  font-style: italic;
+}
+h4{
+  color: red;
+  font-style: italic;
+}
+h5{
+  color: red;
+  font-style: italic;
+}
