@@ -36,3 +36,6 @@ ol{
   font-style: italic;
   color: black;
 }
+img{
+  float: left;
+}
